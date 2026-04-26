@@ -28,7 +28,8 @@ The game was developed using **JSGE (Java Simple Game Engine)**, created by
 
 ## ▶️ How to Run
 
-1. Clone the repository:
+> [!IMPORTANT]
+> This project was developed using NetBeans.  
+> The JSGE engine is configured to run within NetBeans, so if you want to run it in another IDE, make sure to copy only the source code or properly configure the environment.
 
-```bash
-git clone https://github.com/Gustavo-Hideki-S/SlidingPuzzleGame.git
+
