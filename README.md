@@ -14,7 +14,7 @@ It demonstrates core concepts such as:
 - User input
 - Puzzle logic
 
-The game was developed using **JSGE (Java Simple Game Engine)**, created by  
+The game was developed using **JSGE**, created by  
 [David Buzatto](https://github.com/davidbuzatto).
 
 ---
